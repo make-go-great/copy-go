@@ -1,4 +1,4 @@
-module github.com/haunt98/copy-go
+module github.com/make-go-great/copy-go
 
 go 1.16
 

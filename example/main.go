@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/haunt98/copy-go"
+	"github.com/make-go-great/copy-go"
 )
 
 func main() {
