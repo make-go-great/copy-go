@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## v0.8.0 (2021-11-19)
+
+### Others
+
+- chore(readme): use latest tag when go get (2021-11-19)
+
+- chore: remove node from gitignore (2021-11-19)
+
+- chore: add semgrep (2021-11-19)
+
+- chore(readme): add codecov badge (2021-09-18)
+
+- chore: use go 1.17 (2021-09-18)
+
+- chore: move to make-go-great hosting (2021-09-18)
+
+- chore(changelog): generate v0.7.0 (2021-04-23)
+
 ## v0.7.0 (2021-04-23)
 
 ### Added
