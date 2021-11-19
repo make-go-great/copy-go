@@ -9,5 +9,5 @@ This package provides `Copy`, `Replace`, `Compare`.
 ## Install
 
 ```sh
-go get github.com/haunt98/copy-go
+go get github.com/haunt98/copy-go@latest
 ```
