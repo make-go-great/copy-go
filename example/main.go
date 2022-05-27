@@ -30,10 +30,4 @@ func main() {
 		fmt.Println(err)
 		return
 	}
-
-	// Compare file
-	if err := copy.Compare("copy.go", "copy1.go"); err != nil {
-		fmt.Println(err)
-		return
-	}
 }

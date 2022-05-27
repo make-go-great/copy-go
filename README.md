@@ -4,7 +4,7 @@
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/haunt98/copy-go)](https://pkg.go.dev/github.com/haunt98/copy-go)
 [![codecov](https://codecov.io/gh/make-go-great/copy-go/branch/main/graph/badge.svg?token=8ugbNP8pJY)](https://codecov.io/gh/make-go-great/copy-go)
 
-This package provides `Copy`, `Replace`, `Compare`.
+This package provides `Copy`, `Replace` for file and directory.
 
 ## Install
 
