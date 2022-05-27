@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.9.0 (2022-05-27)
+
+### Added
+
+- feat: remove compare in favor of https://github.com/make-go-great/diff-go (2022-05-27)
+
+### Others
+
+- build: bump go 1.18 (2022-05-27)
+
+- chore: update LICENSE (2022-05-27)
+
+- chore(changelog): generate v0.8.0 (2021-11-19)
+
 ## v0.8.0 (2021-11-19)
 
 ### Others
