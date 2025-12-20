@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## v0.10.0 (2025-12-20)
+
+### Others
+
+- chore (2025-12-20)
+
+- chore: fix lint (2025-12-20)
+
+- chore (2025-12-20)
+
+- chore(changeloge): generate v0.9.0 (2022-05-27)
+
+### Build
+
+- build: bump go.mod (2025-12-20)
+
 ## v0.9.0 (2022-05-27)
 
 ### Added
