@@ -9,5 +9,5 @@ This package provides `Copy`, `Replace` for file and directory.
 ## Install
 
 ```sh
-go get github.com/haunt98/copy-go@latest
+go get github.com/make-go-great/copy-go@latest
 ```
